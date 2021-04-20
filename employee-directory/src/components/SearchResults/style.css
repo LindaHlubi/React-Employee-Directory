@@ -1,0 +1,25 @@
+.name-block{
+    text-transform: capitalize;
+    background-color:rgb(138, 137, 137);  
+    color: rgb(26, 26, 26);
+}
+.email-block {
+    background-color:rgb(138, 137, 137);  
+    color: rgb(215, 213, 213); 
+
+}
+.phone-block {
+    background-color:rgb(15, 52, 15); 
+    color: rgb(215, 213, 213); 
+
+}
+.dob-block {
+    background-color:rgb(15, 52, 15); 
+    color: rgb(215, 213, 213); 
+
+}
+.city-block {
+        background-color:rgb(138, 137, 137);  
+        color: rgb(215, 213, 213); 
+
+}

@@ -1,0 +1,15 @@
+.searchbox {
+  border: 1px solid rgb(21, 72, 21);
+  background-color:rgb(21, 72, 21);
+  height: 25px;
+}
+.searchbox button{
+  border: 2px solid  rgb(21, 72, 21);
+  background-color: rgb(21, 72, 21);
+  color: rgb(213, 213, 213);
+
+}
+.searchbox button:hover {
+  background-color: rgb(21, 72, 21);
+  color:white;
+}

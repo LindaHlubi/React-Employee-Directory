@@ -1,0 +1,13 @@
+.datatable .col {
+    cursor: pointer;
+    background-color:rgb(18, 70, 18);
+    color: rgb(238, 236, 236);
+}
+
+.datatable .col .pointer:after {
+    
+    font-size: 50%;
+    content: "";
+    margin-right: 30px;
+}
+
